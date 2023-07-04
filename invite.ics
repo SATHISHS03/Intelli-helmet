@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20230620T063000Z
+DTEND:20230620T073000Z
+DTSTAMP:20230620T044416Z
+ORGANIZER;CN=mathankumar2k2@gmail.com:mailto:mathankumar2k2@gmail.com
+UID:49sslt3qvbsohuljrtgqogquic@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ramase
+ shan.subramanian@multicorewareinc.com;X-NUM-GUESTS=0:mailto:ramaseshan.subr
+ amanian@multicorewareinc.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/mve-akax-ngm
+CREATED:20230620T041927Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/mv
+ e-akax-ngm\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230620T044416Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cluster strategy meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
